@@ -12,6 +12,8 @@ Intruções de recriação das tabelas:
 Abrir o arquivo dados_got.sql diretamente no workbench ou copiar o conteúdo do arquivo dados_got.txt em uma nova query do workbench.
 
 Grupo responsável:
+Grupo 5
+
 Bruna Fontana
 Caio Sena Souto
 Helena Fonseca
