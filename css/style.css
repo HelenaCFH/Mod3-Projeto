@@ -1,0 +1,25 @@
+@font-face{
+   font-family: "agencyr";
+   src: url('AGENCYR.TTF');
+}
+
+.bg{
+   background-color: black;
+}
+
+.titulo{
+   font-family: "agencyr";
+   src: url('AGENCYR.TTF');
+   color: white;
+   padding-left: 5%;
+   padding-top: 5%;
+   font-size: 40px;
+}
+
+.apresentacao{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 75px;
+  }
