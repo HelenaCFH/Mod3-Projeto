@@ -15,6 +15,9 @@ Grupo responsável:
 Grupo 5
 
 Bruna Fontana
+<br>
 Caio Sena Souto
+<br>
 Helena Fonseca
+<br>
 Ruan Marques
